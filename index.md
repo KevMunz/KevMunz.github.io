@@ -1,7 +1,7 @@
 
 # Kevin Munoz's Portfolio
 
-I am a eletrical engineer major at CSUF and I plan to graduate in 2028
+I am a eletrical engineer major at CSUF and I plan to graduate in 2028.
 
  ## Favorite CPSC 120L Labs
 
